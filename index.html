@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<!-- Previous head content remains the same until the script section -->
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Meet AI - The Art of Living Presents: AI Demo Day ✨💡</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.2.19/tailwind.min.css" rel="stylesheet">
+   
+   <link href="https://fonts.googleapis.com/css2?family=Lora:wght@400;500;600;700&family=Work+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+   <link rel="stylesheet" type="text/css" href="style.css" />
+    
+</head>
+<!-- Replace the projects array and related JavaScript with this new code -->
+<script>
+    // Fetch and display projects
+    async function fetchProjects() {
+        try {
+            const response = await fetch('projects.json');
+            const data = await response.json();
+            displayProjects(data.projects);
+        } catch (error) {
+            console.error('Error fetching projects:', error);
+        }
+    }
+
+    function displayProjects(projects) {
+        const container = document.querySelector(".project-container");
+        container.innerHTML = "";
+        container.style.display = "grid";
+        container.style.gridTemplateColumns = "repeat(auto-fill, minmax(300px, 1fr))";
+        container.style.gap = "20px";
+        container.style.padding = "20px";
+
+        projects.forEach((project, index) => {
+            let projectTile = document.createElement("div");
+            projectTile.classList.add("project-tile");
+            projectTile.innerHTML = `
+                <h3 class="text-xl font-bold mb-3">${project.title}</h3>
+                <p class="text-gray-600 mb-4 flex-grow">${project.description}</p>
+                <button onclick="openModal(${index})" class="px-4 py-2 bg-blue-600 text-white rounded hover:bg-blue-700 transition-colors">Learn More</button>
+            `;
+            container.appendChild(projectTile);
+        });
+    }
+
+    async function openModal(index) {
+        try {
+            const response = await fetch('modal.json');
+            const data = await response.json();
+            const project = data.projects[index];
+
+            document.getElementById("modal-title").textContent = project.title;
+            document.getElementById("modal-team").textContent = project.team;
+            document.getElementById("modal-description").textContent = project.description;
+            document.getElementById("modal-details").innerHTML = project.problemstatement;
+            document.getElementById("modal-solutions").innerHTML = project.solutions;
+            document.getElementById("join-button").href = project.joinLink;
+            
+            document.getElementById("modal").style.display = "block";
+            document.body.style.overflow = "hidden";
+        } catch (error) {
+            console.error('Error opening modal:', error);
+        }
+    }
+
+    function closeModal() {
+        document.getElementById("modal").style.display = "none";
+        document.body.style.overflow = "auto";
+    }
+
+    window.onclick = function(event) {
+        if (event.target === document.getElementById("modal")) {
+            closeModal();
+        }
+    };
+
+    // Initialize by fetching projects when the page loads
+    window.onload = function() {
+        fetchProjects();
+    };
+</script>
+</body>
+</html>
