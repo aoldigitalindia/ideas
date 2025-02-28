@@ -440,7 +440,7 @@
         container.style.gap = "20px";
         container.style.padding = "20px";
 
-        fetch("https://github.com/aoldigitalindia/ideas/blob/main/projects.json")
+        fetch("https://raw.githubusercontent.com/aoldigitalindia/ideas/refs/heads/main/projects.json")
             .then(response => response.json())
             .then(data => {
                 projects = data;
