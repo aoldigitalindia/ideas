@@ -18,7 +18,8 @@
         h1, h2, h3, h4, h5, h6, .font-serif {
             font-family: 'Lora', serif;
         }
-        /* Password protection styles */
+        /* 
+         protection styles */
         #password-overlay {
             position: fixed;
             top: 0;
@@ -370,7 +371,7 @@
 
     <script>
         // Password Protection Script
-        const correctPassword = "AolDigitalIndia2025"; // Change this to your desired password
+        const correctPassword = "GurudevAiIndia2025"; // Change this to your desired password
         
         function checkPassword() {
             const passwordInput = document.getElementById('password-input');
@@ -440,7 +441,7 @@
         container.style.gap = "20px";
         container.style.padding = "20px";
 
-        fetch("https://raw.githubusercontent.com/aoldigitalindia/ideas/refs/heads/main/projects.json")
+        fetch("projects.json")
             .then(response => response.json())
             .then(data => {
                 projects = data;
