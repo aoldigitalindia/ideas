@@ -6,14 +6,7 @@
                         "contact": "Shreesh",
                         "tileDescription": "Tracking people meeting Gurudev",
                         "description": "Our mission is to track people meeting Gurudev.",
-                        "solutions": {
-                                "What": "Provide visibility into the frequency of meetings of the person(s) seeking an appointment with Gurudev.",
-                                "When": "At the time of approving appointments.",
-                                "Who": "Secretariat",
-                                "How": "AI-driven image recognition of prior meetings of Gurudev with the person(s).",
-                                "Why": "To choose whether to approve the appointment or not.",
-                                "Where": "Wherever Gurudev goes."
-                        },
+                        "solutions":  "What: Provide visibility into the frequency of meetings of the person(s) seeking an appointment with Gurudev.,When: At the time of approving appointments.,Who: Secretariat,How: AI-driven image recognition of prior meetings of Gurudev with the person(s).,Why: To choose whether to approve the appointment or not.,Where: Wherever Gurudev goes.",
                         "joinLink": "",
                         "problemStatement": "To ensure Gurudev's time is optimally utilized.",
                         "painPoints": "",
