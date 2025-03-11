@@ -1,20 +1,14 @@
 [
     {
-        "title": "Tracking people meeting VIP",
-        "team": "Shreesh, Meenakshi, rishi & others",
-        "contact": " ",
+        "title": "Tracking people meeting Gurudev",
+        "team": "Shreesh, Meenakshi, Rishi, Prajwal, Sujay & others",
+        "contact": "Shreesh",
         "tileDescription": "Tracking people meeting Gurudev",
-        "description": "Our mission is to Tracking people meeting VIP",
+        "description": "Our mission is to track people meeting Gurudev",
         "solutions": " ",
         "joinLink": "https://forms.gle/BzZoNtKCU8oQp9hp8",
-        "problemstatement": "The goal of this project is to empower Art of Living teachers by streamlining student engagement. Teachers currently struggle with manual outreach, lack of progress visibility, and inefficient communication. The solution is an AI-driven platform with voice support, automating personalized communication, tracking student journeys, and offering tailored content recommendations. This increases teacher efficiency, improves student engagement, and provides data-driven insights. Key to success is a human-centered approach, incremental rollout, and a focus on practical optimization, aligning with DesignX principles to ensure the platform effectively meets teacher and student needs.",
-        "PainPoints": [
-            "Manual and time-consuming outreach: Teachers have to manually contact each student through phone calls or other methods, which becomes increasingly difficult as the number of students grows. This process becomes even more strenuous as the number of students grows and as the number of events/activities happening grows with time.",
-            "Lack of visibility into student progress: Teachers do not have a system that provides insights into student progress and their journey, making it challenging to offer targeted support and guidance. For example, if the teacher would have known that their student had already done the Art of Living Part 2 Course, then the teacher can tailor the message and inspire him/her to do advanced courses like the Volunteer Training Program.",
-            "Inefficient communication: The absence of an easy-to-use interface for drafting, reviewing, and sending messages to students leads to communication inefficiencies. With no visibility into student’s Art of Living journey today on what courses they have taken, teachers often send messages that might not interest or be relevant to them.",
-            "Hard to use User interface: Today, the teacher often needs to use the computer and goes through several steps to achieve the task of sending messages.",
-            "Low student retention: Inadequate engagement and support contribute to low student retention rates."
-        ],
+        "problemstatement": "To ensure Gurudev's time is optimally utilized.",
+        "PainPoints":            "To ensure Gurudev's time is optimally utilized.",
         "rolesAvailable": ""
     },
     {
