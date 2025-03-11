@@ -12,16 +12,16 @@
         "rolesAvailable": ""
     },
     {
-        "title": "Personal Branding Framework for Synergetic Diverse Outreach",
-        "team": "Nisha Balani",
-        "contact": " ",
-        "tileDescription": "Empowering Art of Living teachers with AI-driven marketing to build strong yoga partnerships, attract students, and scale effortlessly!",
-        "description": "Agentic AI Assistant for Teacher Empowerment ",
-        "problemstatement": "Art of Living teachers globally often lack the skills to effectively market themselves and build relationships with established yoga businesses, hindering their ability to efficiently grow their student base. This project aims to empower teachers with an AI-powered agent designed to streamline their professional journey. The agent generates personalized branding materials (resumes, cover letters, biographies), identifies high-quality yoga studios aligned with holistic well-being, and automates outreach with persuasive emails. It also manages scheduling to prevent conflicts and ensure legal protection through studio agreements. By capitalizing on the existing interest in mind-body practices within yoga studios, the AI fosters a sustainable outreach model, expands teachers' impact, generates diverse leads, and raises mainstream awareness, all while minimizing time and effort. The goal is to enable Art of Living teachers to build synergistic partnerships with yoga businesses efficiently and effectively.",
+        "title": "AI-Powered Digital Feedback System for the Ashram",
+        "team": "Shreesh, Ankit Gupta",
+        "contact": "Ankit Gupta",
+        "tileDescription": "Enhancing real-time feedback collection from participants",
+        "description": "Improve real-time access to participant feedback—including concerns, testimonials, and referrals—to address issues promptly, amplify positive experiences, and encourage more people to visit the Ashram. This system will replace inefficient paper-based feedback collection and integrate real-time analytics to improve response times and participant satisfaction.",
+        "problemstatement": "",
         "PainPoints": "",
-        "solutions": "This advanced AI-powered agent is designed to support teachers in building a robust personal brand and streamlining their professional journey. Its capabilities include generating a personalized branding framework, such as an Art of Living Resume, tailored cover letters, concise biography summaries, and digital stationery like customized email signatures with integrated logos. The AI also offers actionable guidance on identifying high-quality, well-rated yoga studios nationwide,focusing on those whose mission aligns with promoting holistic mental well-being. It simplifies outreach by automatically generating professional and persuasive emails for initiating partnerships. These pitches can highlight the teacher’s ability to offer services such as weekly meditation sessions, Stress & Anxiety Protocols, or even the Art of Living courses when suitable.To maximize efficiency, the bot centrally manages the teacher’s schedule, preventing conflicts across multiple commitments, such as yoga studios, courses, and community meetups. Core Objective: Capitalize on the low-hanging fruit within yoga studios nationwide—spaces where audiences are already familiar with the value of the mind-body connection, are accustomed to paying for quality instruction, and are less constrained by rigid religious frameworks. This AI ensures teachers are legally protected through studio agreements while establishing them as credible meditation experts. The result is a sustainable and organic outreach model that generates diverse leads, raises mainstream awareness, and expands the teacher’s impact—all while minimizing the time and effort required for relationship-building and logistical coordination.",
+        "solutions": "To ensure participants' experiences at the Bangalore Ashram are continuously improved and shared widely.",
         "joinLink": "https://forms.gle/BzZoNtKCU8oQp9hp8",
-        "rolesAvailable": "AI Scientists/Data Scientsts/ML Engineers, Back-End Engineers, Front-End Engineers"
+        "rolesAvailable": ""
     },
     {
         "title": "Datamukti",
