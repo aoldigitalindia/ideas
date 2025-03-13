@@ -24,15 +24,15 @@
         "rolesAvailable": ""
     },
     {
-        "title": "Datamukti",
+        "title": "Augmented Reality (AR) Experience for Product Ads",
         "team": "Keshav",
         "contact": " ",
-        "tileDescription": "AI-powered Idea Bank for seamless cross-collaboration",
-        "description": "An Idea bank which allows for cross collaboration of individuals all across the organization leveraging Gen Ai Semantic Search / RAG functionalities for quick look up",
+        "tileDescription": "Transform newspaper and book ads into interactive video experiences",
+        "description": "Play a video of a product from a newspaper ad by creating an AR experience. The same applies to a picture in a book.",
         "problemstatement": "The project addresses the challenge faced by Art of Living board members (key decision-makers) in efficiently finding and connecting with individuals proposing solutions to key organizational issues. The current process lacks a centralized platform to discover and connect with relevant expertise. The solution is a web application featuring a search bar, allowing users to easily find work done within the organization. Envisioned as a \"Perplexity for AOL-specific content,\" this platform facilitates collaboration by providing board members with a tool to quickly identify relevant ideas and connect with the right people to address critical challenges. The primary goal is to improve decision-making and problem-solving by streamlining access to internal knowledge and expertise.",
-        "solutions": "Essentially a Web App with a Search bar, where users can look up the work done by the organization. Think perplexity excpet for AOL specific content. A platform for collaboration.",
+        "solutions": "",
         "joinLink": "https://forms.gle/BzZoNtKCU8oQp9hp8",
-        "rolesAvailable": "AI Scientists/Data Scientsts/ML Engineers"
+        "rolesAvailable": ""
     },
     {
         "title": "Ai Teachers Assistant",
