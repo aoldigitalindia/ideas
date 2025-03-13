@@ -17,7 +17,7 @@
         "contact": "Ankit Gupta",
         "tileDescription": "Enhancing real-time feedback collection from participants",
         "description": "Improve real-time access to participant feedback—including concerns, testimonials, and referrals—to address issues promptly, amplify positive experiences, and encourage more people to visit the Ashram. This system will replace inefficient paper-based feedback collection and integrate real-time analytics to improve response times and participant satisfaction.",
-        "problemstatement": "",
+        "problemstatement": "To ensure participants' experiences at the Bangalore Ashram are continuously improved and shared widely.",
         "PainPoints": "",
         "solutions": "To ensure participants' experiences at the Bangalore Ashram are continuously improved and shared widely.",
         "joinLink": "https://forms.gle/BzZoNtKCU8oQp9hp8",
@@ -29,7 +29,7 @@
         "contact": " ",
         "tileDescription": "Transform newspaper and book ads into interactive video experiences",
         "description": "Play a video of a product from a newspaper ad by creating an AR experience. The same applies to a picture in a book.",
-        "problemstatement": "The project addresses the challenge faced by Art of Living board members (key decision-makers) in efficiently finding and connecting with individuals proposing solutions to key organizational issues. The current process lacks a centralized platform to discover and connect with relevant expertise. The solution is a web application featuring a search bar, allowing users to easily find work done within the organization. Envisioned as a \"Perplexity for AOL-specific content,\" this platform facilitates collaboration by providing board members with a tool to quickly identify relevant ideas and connect with the right people to address critical challenges. The primary goal is to improve decision-making and problem-solving by streamlining access to internal knowledge and expertise.",
+        "problemstatement": "To enhance traditional advertising by integrating interactive AR experiences.",
         "solutions": "",
         "joinLink": "https://forms.gle/BzZoNtKCU8oQp9hp8",
         "rolesAvailable": ""
