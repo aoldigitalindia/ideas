@@ -25,7 +25,7 @@
     },
     {
         "title": "Augmented Reality (AR) Experience for Product Ads",
-        "team": "Keshav",
+        "team": "",
         "contact": " ",
         "tileDescription": "Transform newspaper and book ads into interactive video experiences",
         "description": "Play a video of a product from a newspaper ad by creating an AR experience. The same applies to a picture in a book.",
@@ -35,26 +35,26 @@
         "rolesAvailable": ""
     },
     {
-        "title": "Ai Teachers Assistant",
-        "team": "Chinmaya Devaraj",
+        "title": "AI Bot for Art of Living Free Schools",
+        "team": "",
         "contact": " ",
-        "tileDescription": "Empower teachers with an AI chat assistant to track, mentor, and engage every participant effortlessly!",
-        "description": "AI to  help teachers follow and support participants journey more seamlessly.",
-        "problemstatement": "Art of Living teachers face declining engagement with SKY graduates due to fragmented communication and a lack of progress tracking. The SKY Companion, an AI-powered engagement hub, solves this by centralizing communication within a chat interface. The AI automates personalized messaging, suggests tailored mentoring activities, and provides insights into graduate engagement. This approach boosts retention, enhances teacher efficiency, and offers data-driven insights for effective support. Following DesignX principles, the platform emphasizes iterative development, teacher collaboration, and user-friendly design to ensure a practical and impactful solution. The goal is to empower teachers to effortlessly track, mentor, and support SKY graduates, fostering a thriving community and promoting long-term participation in Art of Living.",
+        "tileDescription": "AI-driven engagement for Art of Living Free Schools",
+        "description": "Develop an AI bot with a digital clone, video, audio, and text interactions to enhance engagement and awareness of Art of Living Free Schools.",
+        "problemstatement": "To provide seamless, interactive, and AI-powered engagement for Art of Living Free Schools.",
         "solutions": "",
         "joinLink": "https://forms.gle/BzZoNtKCU8oQp9hp8",
-        "rolesAvailable": "AI Scientists/Data Scientsts/ML Engineers, Front-End Engineers, UX Designer"
+        "rolesAvailable": ""
     },
     {
-        "title": "Art of Living Intro Talk Mentor Bot",
-        "team": "Akshay Gaur",
-        "contact": " ",
-        "tileDescription": "AI-powered coaching for Art of Living presenters—boosting confidence, refining delivery, and mastering objections for higher course enrollments!",
+        "title": "AI Bot for International Women's Conference 2025",
+        "team": "",
+        "contact": "AI-powered engagement for IWC 2025 ",
+        "tileDescription": "Develop an AI bot with audio and text interactions to enhance engagement, outreach, and participant experience for the International Women's Conference 2025.",
         "description": "An AI-powered mobile application designed to: Simulate realistic participant interactions with diverse objection scenarios",
-        "problemstatement": "Art of Living Intro Talk presenters face challenges in confidently delivering their material, handling objections, and effectively enrolling participants. Traditional training methods lack the dynamic, interactive feedback needed to refine presentation skills. To solve this, the Art of Living Intro Talk Mentor Bot is being developed: an AI-powered mobile application simulating realistic participant interactions with diverse objection scenarios. The bot provides real-time, personalized coaching and feedback during practice sessions, offering dynamic role-play to experiment with closing techniques. Data analytics track performance, identify improvement areas, and adapt training content to each user's needs. The goal is to empower presenters with a dynamic, personalized training tool, improving their delivery and increasing enrollment rates in Part 1 courses.",
-        "solutions": "The Art of Living Intro Talk Mentor Bot is an AI-powered mobile application designed to:Simulate realistic participant interactions with diverse objection scenarios. Provide real-time, personalized coaching and feedback during practice sessions. Offer dynamic role-play experiences that allow presenters to experiment with various closing techniques.Use data analytics to track performance, identify improvement areas, and adapt training content to each user's needs.",
+        "problemstatement": "To leverage AI for interactive engagement, making IWC 2025 more accessible and informative.",
+        "solutions": "",
         "joinLink": "https://forms.gle/BzZoNtKCU8oQp9hp8",
-        "rolesAvailable": "AI Scientists/Data Scientsts/ML Engineers, Back-End Engineers, Front-End Engineers UX Designers"
+        "rolesAvailable": ""
     },
     {
         "title": "Inner Peace AI",
