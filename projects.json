@@ -115,7 +115,7 @@
         "title": "Develop an AI model for AOL testimonials",
         "team": "",
         "tileDescription": "Develop an AI model for testimonials specifically for Art of Living ( whether it is courses, events, social projects or any other initiatives) ",
-        "description": "",
+        "description": "Develop an AI model for testimonials specifically for Art of Living ( whether it is courses, events, social projects or any other initiatives) ",
         "problemstatement": "The model will infer the user interest area ( as one of the intelligence) based on the testimonial. This will help other new users with similar interests quickly see their interest area based testimonial,  towards making the decision to participate / join the offerings and projects of Art of Living actions. The various Art of Living websites,specifically  Kalgyani website,  can be powered by this AI model for their specific needs.  ",
         "solutions": "",
         "joinLink": "https://forms.gle/BzZoNtKCU8oQp9hp8",
