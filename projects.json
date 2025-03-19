@@ -13,7 +13,7 @@
     },
     {
         "title": "AI-Powered Digital Feedback System for the Ashram",
-        "team": "Shreesh, Ankit Gupta",
+        "team": "Shreesh, Ankit Gupta, Rahul Sharma and Tushar -",
         "contact": "Ankit Gupta",
         "tileDescription": "Enhancing real-time feedback collection from participants",
         "description": "Improve real-time access to participant feedback—including concerns, testimonials, and referrals—to address issues promptly, amplify positive experiences, and encourage more people to visit the Ashram. This system will replace inefficient paper-based feedback collection and integrate real-time analytics to improve response times and participant satisfaction.",
@@ -107,6 +107,16 @@
         "tileDescription": "AI-driven inventory, billing, and customer engagement for shoe retailers",
         "description": "Develop an AI-powered retail management system for shoe retailers, replacing manual barcode-based tracking with AI-driven image recognition for faster billing, real-time inventory management, and improved customer engagement.",
         "problemstatement": "To replace inefficient barcode-based retail management with AI-driven automation, ensuring faster billing, optimized inventory, and improved customer engagement.",
+        "solutions": "",
+        "joinLink": "https://forms.gle/BzZoNtKCU8oQp9hp8",
+        "rolesAvailable": ""
+    },
+    {
+        "title": "Develop an AI model for AOL testimonials",
+        "team": "",
+        "tileDescription": "Develop an AI model for testimonials specifically for Art of Living ( whether it is courses, events, social projects or any other initiatives) ",
+        "description": "",
+        "problemstatement": "The model will infer the user interest area ( as one of the intelligence) based on the testimonial. This will help other new users with similar interests quickly see their interest area based testimonial,  towards making the decision to participate / join the offerings and projects of Art of Living actions. The various Art of Living websites,specifically  Kalgyani website,  can be powered by this AI model for their specific needs.  ",
         "solutions": "",
         "joinLink": "https://forms.gle/BzZoNtKCU8oQp9hp8",
         "rolesAvailable": ""
